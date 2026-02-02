@@ -15,11 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ### ✍️ Random Dev Quote
