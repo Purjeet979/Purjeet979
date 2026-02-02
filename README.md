@@ -17,4 +17,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
+  <img src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
