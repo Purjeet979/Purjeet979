@@ -14,13 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Purjeet979&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
-  <img src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake-dark.svg">
@@ -28,3 +21,7 @@
     <img alt="github contribution grid snake animation" src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
