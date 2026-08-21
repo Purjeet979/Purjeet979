@@ -48,7 +48,6 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
   />
-
   <img
     src="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
     alt="Pac-Man Contribution Graph"
