@@ -29,15 +29,11 @@
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Purjeet979&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Purjeet979&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Purjeet979&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
-
 <br>
-
 ## 🛠️ Tech Arsenal
 
 **💻 Languages**
