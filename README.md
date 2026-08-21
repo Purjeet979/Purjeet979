@@ -20,15 +20,28 @@
   <img src="https://streak-stats.demolab.com?user=Purjeet979&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🐍 Contribution Snake
+# 🎮 Contribution Arcade
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/Purjeet979/Purjeet979/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+    width="100%"
+  />
+
+</picture>
 
 </div>
 
