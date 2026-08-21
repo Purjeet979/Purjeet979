@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Purjeet+%F0%9F%91%8B;AI+%2B+Android+%2B+Full-Stack+Builder;Currently+training+%2C+AI+assistant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Purjeet+%F0%9F%91%8B;AI+%2B+Android+%2B+Full-Stack+Builder;Currently+training+Arjun%2C+my+AI+assistant" alt="Typing SVG" />
 
 </div>
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **Python, SQL, and fine-tuning LLMs**
 - ⚡ Fun fact: **I spend as much time fixing my dev environment as I do coding in it**
 
+<br>
+
 <div align="center">
 
 ## 🌐 Socials
@@ -25,6 +27,7 @@
 </div>
 
 <br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -33,7 +36,9 @@
 <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
+
 <br>
+
 ## 🛠️ Tech Arsenal
 
 **💻 Languages**
@@ -67,6 +72,7 @@
 ## 🎮 Contribution Arcade
 
 <div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -82,6 +88,7 @@
     width="100%"
   />
 </picture>
+
 </div>
 
 <br>
