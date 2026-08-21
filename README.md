@@ -12,12 +12,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purjeet979&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Purjeet979&theme=tokyonight&hide_border=true" />
+<img src="./profile/stats.svg" alt="Purjeet's GitHub Stats"/>
+
+<img src="./profile/top-langs.svg" alt="Top Languages"/>
+
 </p>
 
 # 🎮 Contribution Arcade
