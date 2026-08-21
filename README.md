@@ -32,8 +32,8 @@
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Purjeet979&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purjeet979&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img height="165px" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="165px" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
