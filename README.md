@@ -34,6 +34,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 # 🎮 Contribution Arcade
 
 <div align="center">
@@ -43,15 +44,18 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
     alt="Pac-Man Contribution Graph"
     width="100%"
   />
+
 </picture>
 
 </div>
