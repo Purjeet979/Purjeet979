@@ -161,48 +161,52 @@ stroke="#30363d"/>
 
 <!-- INVADERS -->
 
-<g class="enemy alien">
-
 <!-- Alien 1 -->
 <g transform="translate(170 90)">
-<rect x="10" y="0" width="30" height="8" rx="2" fill="#58a6ff"/>
-<rect x="4" y="8" width="42" height="18" rx="3" fill="#58a6ff"/>
-<rect x="10" y="26" width="8" height="8" fill="#58a6ff"/>
-<rect x="32" y="26" width="8" height="8" fill="#58a6ff"/>
-<rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
-<rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  <g class="enemy alien">
+    <rect x="10" y="0" width="30" height="8" rx="2" fill="#58a6ff"/>
+    <rect x="4" y="8" width="42" height="18" rx="3" fill="#58a6ff"/>
+    <rect x="10" y="26" width="8" height="8" fill="#58a6ff"/>
+    <rect x="32" y="26" width="8" height="8" fill="#58a6ff"/>
+    <rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
+    <rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  </g>
 </g>
 
 <!-- Alien 2 -->
 <g transform="translate(330 90)">
-<rect x="10" y="0" width="30" height="8" rx="2" fill="#7ee787"/>
-<rect x="4" y="8" width="42" height="18" rx="3" fill="#7ee787"/>
-<rect x="10" y="26" width="8" height="8" fill="#7ee787"/>
-<rect x="32" y="26" width="8" height="8" fill="#7ee787"/>
-<rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
-<rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  <g class="enemy alien">
+    <rect x="10" y="0" width="30" height="8" rx="2" fill="#7ee787"/>
+    <rect x="4" y="8" width="42" height="18" rx="3" fill="#7ee787"/>
+    <rect x="10" y="26" width="8" height="8" fill="#7ee787"/>
+    <rect x="32" y="26" width="8" height="8" fill="#7ee787"/>
+    <rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
+    <rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  </g>
 </g>
 
 <!-- Alien 3 -->
 <g transform="translate(490 90)">
-<rect x="10" y="0" width="30" height="8" rx="2" fill="#d2a8ff"/>
-<rect x="4" y="8" width="42" height="18" rx="3" fill="#d2a8ff"/>
-<rect x="10" y="26" width="8" height="8" fill="#d2a8ff"/>
-<rect x="32" y="26" width="8" height="8" fill="#d2a8ff"/>
-<rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
-<rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  <g class="enemy alien">
+    <rect x="10" y="0" width="30" height="8" rx="2" fill="#d2a8ff"/>
+    <rect x="4" y="8" width="42" height="18" rx="3" fill="#d2a8ff"/>
+    <rect x="10" y="26" width="8" height="8" fill="#d2a8ff"/>
+    <rect x="32" y="26" width="8" height="8" fill="#d2a8ff"/>
+    <rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
+    <rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  </g>
 </g>
 
 <!-- Alien 4 -->
 <g transform="translate(650 90)">
-<rect x="10" y="0" width="30" height="8" rx="2" fill="#ffa657"/>
-<rect x="4" y="8" width="42" height="18" rx="3" fill="#ffa657"/>
-<rect x="10" y="26" width="8" height="8" fill="#ffa657"/>
-<rect x="32" y="26" width="8" height="8" fill="#ffa657"/>
-<rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
-<rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
-</g>
-
+  <g class="enemy alien">
+    <rect x="10" y="0" width="30" height="8" rx="2" fill="#ffa657"/>
+    <rect x="4" y="8" width="42" height="18" rx="3" fill="#ffa657"/>
+    <rect x="10" y="26" width="8" height="8" fill="#ffa657"/>
+    <rect x="32" y="26" width="8" height="8" fill="#ffa657"/>
+    <rect x="12" y="13" width="6" height="6" fill="#0d1117"/>
+    <rect x="32" y="13" width="6" height="6" fill="#0d1117"/>
+  </g>
 </g>
 
 <!-- Lasers -->
