@@ -69,27 +69,15 @@
 
 <br>
 
-## 🎮 Contribution Arcade
+## 👾 Contribution Invaders
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
-  />
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/Purjeet979/Purjeet979/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
-    width="100%"
+    src="./assets/contribution-invaders.svg"
+    alt="Contribution Invaders"
+    width="850"
   />
-</picture>
-
-</div>
+</p>
 
 <br>
 
