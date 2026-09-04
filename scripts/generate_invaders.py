@@ -102,10 +102,9 @@ viewBox="0 0 {WIDTH} {HEIGHT}">
     animation: float 2s ease-in-out infinite;
 }}
 
-.enemy:nth-child(2) {{ animation-delay: .2s; }}
-.enemy:nth-child(3) {{ animation-delay: .4s; }}
-.enemy:nth-child(4) {{ animation-delay: .6s; }}
-.enemy:nth-child(5) {{ animation-delay: .8s; }}
+.alien-2 {{ animation-delay: .2s; }}
+.alien-3 {{ animation-delay: .4s; }}
+.alien-4 {{ animation-delay: .6s; }}
 
 @keyframes float {{
     0%,100% {{ transform: translateY(0); }}
@@ -163,7 +162,7 @@ stroke="#30363d"/>
 
 <!-- Alien 1 -->
 <g transform="translate(170 90)">
-  <g class="enemy alien">
+  <g class="enemy alien alien-1">
     <rect x="10" y="0" width="30" height="8" rx="2" fill="#58a6ff"/>
     <rect x="4" y="8" width="42" height="18" rx="3" fill="#58a6ff"/>
     <rect x="10" y="26" width="8" height="8" fill="#58a6ff"/>
@@ -175,7 +174,7 @@ stroke="#30363d"/>
 
 <!-- Alien 2 -->
 <g transform="translate(330 90)">
-  <g class="enemy alien">
+  <g class="enemy alien alien-2">
     <rect x="10" y="0" width="30" height="8" rx="2" fill="#7ee787"/>
     <rect x="4" y="8" width="42" height="18" rx="3" fill="#7ee787"/>
     <rect x="10" y="26" width="8" height="8" fill="#7ee787"/>
@@ -187,7 +186,7 @@ stroke="#30363d"/>
 
 <!-- Alien 3 -->
 <g transform="translate(490 90)">
-  <g class="enemy alien">
+  <g class="enemy alien alien-3">
     <rect x="10" y="0" width="30" height="8" rx="2" fill="#d2a8ff"/>
     <rect x="4" y="8" width="42" height="18" rx="3" fill="#d2a8ff"/>
     <rect x="10" y="26" width="8" height="8" fill="#d2a8ff"/>
@@ -199,7 +198,7 @@ stroke="#30363d"/>
 
 <!-- Alien 4 -->
 <g transform="translate(650 90)">
-  <g class="enemy alien">
+  <g class="enemy alien alien-4">
     <rect x="10" y="0" width="30" height="8" rx="2" fill="#ffa657"/>
     <rect x="4" y="8" width="42" height="18" rx="3" fill="#ffa657"/>
     <rect x="10" y="26" width="8" height="8" fill="#ffa657"/>

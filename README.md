@@ -73,7 +73,7 @@
 
 <p align="center">
   <img
-    src="./assets/contribution-invaders.svg"
+    src="./assets/contribution-invaders.svg?v=2"
     alt="Contribution Invaders"
     width="850"
   />
