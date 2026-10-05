@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Purjeet Shahu&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1101, Total PRs: 4, Total Issues: 2, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1105, Total PRs: 4, Total Issues: 2, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 211.6689431794436;
+        stroke-dashoffset: 211.6148754520345;
       }
     }
   
